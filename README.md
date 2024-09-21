@@ -6,3 +6,4 @@ real-time video processing, feature extraction, and gesture detection, demonstra
 applications for these technologies. This novel approach has the potential to help a wide range 
 of industries, including healthcare, public kiosks, and smart home environments, by providing 
 an easy and frictionless means of computer interaction.
+
