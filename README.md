@@ -1,3 +1,5 @@
+#Virtual_Mouse_Project
+
 The Virtual Mouse project combines computer graphics and image processing to produce a 
 touchless interaction device. A webcam monitors hand movements and detects when the thumb 
 and index finger come together to simulate a mouse click. This gesture-based control enhances 
