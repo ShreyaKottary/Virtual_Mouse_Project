@@ -23,3 +23,14 @@ experience. Beyond traditional computing environments, the virtual mouse has pot
 applications in public vending machines, smart home interfaces, and accessibility tools 
 for people with mobility impairments, demonstrating the usefulness and versatility of 
 computer graphics and image processing technologies.
+
+The Virtual Mouse project showcases the practical application of computer vision and 
+image processing technology to create a touchless interaction device. Using a webcam 
+and complex algorithms, the device enables users to control a computer cursor and 
+conduct mouse clicks using hand motions, notably bringing the thumb and index finger 
+together. This strategy not only improves user hygiene by reducing physical contact, but 
+it also provides an accessible option for people with mobility problems. Using OpenCV 
+and Python, the project effectively demonstrates real-time video processing, accurate 
+hand detection, and gesture recognition, resulting in a seamless and intuitive user 
+experience. The virtual mouse system is a significant improvement in the humancomputer interface, showing the possibilities of touchless technology in different 
+applications, such as healthcare, public vending machines, and smart home environments.
